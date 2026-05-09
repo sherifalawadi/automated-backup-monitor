@@ -1,5 +1,3 @@
-# automated-backup-monitor
-Automated system backup, disk monitoring, and log management script for Ubuntu Linux. Built with pure Bash and cron.
 # 🛡️ Automated System Backup & Monitoring Script
 
 > A pure Bash script for Ubuntu that automates backups, monitors disk usage, rotates logs, and sends email alerts — all driven by cron and a single config file.
